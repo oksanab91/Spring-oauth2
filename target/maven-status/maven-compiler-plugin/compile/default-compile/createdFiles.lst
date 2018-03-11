@@ -1,0 +1,9 @@
+com\github\arocketman\config\ResourceServerConfig.class
+com\github\arocketman\repositories\UserRepository.class
+com\github\arocketman\entities\Role.class
+com\github\arocketman\VanillaApplication.class
+com\github\arocketman\config\CustomUserDetails.class
+com\github\arocketman\controllers\HomeController.class
+com\github\arocketman\config\AuthorizationServerConfig.class
+com\github\arocketman\entities\User.class
+com\github\arocketman\services\UserService.class
